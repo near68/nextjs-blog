@@ -1,0 +1,9 @@
+{
+	"editor.cursorBlinking": "smooth",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.formatOnSave": true,
+	"editor.smoothScrolling": true,
+	"editor.insertSpaces": true,
+	"editor.tabSize": 4,
+	"editor.indentSize": 4
+}
